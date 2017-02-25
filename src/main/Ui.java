@@ -21,6 +21,7 @@ public class Ui {
 		f.dodajPozycje(t1, 3);
 		f.dodajPozycje(t2, 5);
 
+		WydrukFaktury
 		WydrukFaktury.wypiszFakture(f);
 
 		// TEST ZEWN. rabatu
